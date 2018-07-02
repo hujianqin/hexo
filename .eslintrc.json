@@ -1,6 +1,6 @@
 {
   "extends": "hexo",
-  "root": true,
+  "root": false,
   "rules": {
     "one-var": 0,
     "operator-linebreak": [
